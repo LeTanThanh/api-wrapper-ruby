@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0 - 2019-03-28
+[#89](https://github.com/uizaio/api-wrapper-ruby/pull/89) Release Sprint 5
+1. Upgrade API v3 to API v4
+
 ## 1.1.0 - 2019-03-07
 [#89](https://github.com/uizaio/api-wrapper-ruby/pull/89) Release Sprint 4
 1. Add User
